@@ -1,3 +1,13 @@
 hellow 1 how are u
 command : git push origin main    //for pushing local repo to remote repo
 feature added
+*****************creating new branch ***************************
+1. #git checkout -b <branch_name>  //switch to branch name
+Note : what are files availeble in main branch those are reflect heare
+2.edit file in feature branch and add files and commit
+
+3. add feature branch to remote repo
+#git remote add feature /*(branch_name)*/ https://github.com/Rajababu424/git_sample.git 
+
+4. then push feature repo to remote repo
+ #git push origin feature(branch_name)
