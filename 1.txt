@@ -11,3 +11,7 @@ Note : what are files availeble in main branch those are reflect heare
 
 4. then push feature repo to remote repo
  #git push origin feature(branch_name)
+ 
+ 5. for pulling remote repo to particular branch
+ git pull remote_repo branch_name
+ex: git pull origin feature
